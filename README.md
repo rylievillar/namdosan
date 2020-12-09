@@ -1,0 +1,2 @@
+# namdosan
+start up
